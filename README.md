@@ -11,10 +11,7 @@ The following sections will help you setup the project.
 
 To run this project, you will need Python and Jupyter Notebook installed
 
-To install Jupyter Notebook, visit:
-```
 Install [Jupyter Notebook](https://jupyter.org/install)
-```
 
 ### Installing
 
